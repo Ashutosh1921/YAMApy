@@ -195,6 +195,7 @@ button > a, button > a:hover, button > a:focus, button > a:active {
 .footer > p {
     text-align: center;
     color: pink;
+    margin-bottom: 20px;
 }
 
 .footer {
@@ -246,5 +247,5 @@ header {
 }
 
 .space{
-    padding-bottom: 60px;
+    padding-bottom: 15px;
 }
