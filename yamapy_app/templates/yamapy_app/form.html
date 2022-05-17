@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="jumbotron webdesigntuts-workshop">
+        <div class="form">
+            {% load crispy_forms_tags %}
+            <form method="POST">
+                {% csrf_token %}
+                <div class="form-control-lg">
+                    {{ form.yt_vid_url|as_crispy_field }}
+                </div>
+                <div class="form-control-lg">
+                    <p class="select-label">Select what type of file you want to download?</p>
+                    {{ form.file_type|as_crispy_field }}
+                </div>
+                <p class="lead">
+                    <button type="submit">Submit</button>
+                </p>
+            </form>
+        </div>
+    </div>
+</div>
+
