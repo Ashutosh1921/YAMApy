@@ -12,10 +12,10 @@ This is a web application for downloading YouTube videos in the best available f
 
 ## Languages Used
 
+* Python
 * HTML
 * CSS
 * JavaScript
-* Python
 
 ## Requirements
 
