@@ -31,25 +31,25 @@ Visit YouTube DL [official repository](https://github.com/ytdl-org/youtube-dl/).
 Clone the project
 
 ```bash
-$ git clone https://github.com/ancientmoon8/YAMApy.git
+git clone https://github.com/ancientmoon8/YAMApy.git
 ```
 
 Go to the project directory
 
 ```bash
-$ cd YAMApy
+cd YAMApy
 ```
 
 Install dependencies
 
 ```bash
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 Start the server
 
 ```bash
-$ python manage.py runserver
+python manage.py runserver
 ```
 ## Demo
 
