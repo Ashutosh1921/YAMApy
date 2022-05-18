@@ -60,6 +60,7 @@ $ python manage.py runserver
 - Mayank Kashyap [@ancientmoon8](https://github.com/ancientmoon8)
 - Aayush Gupta [@Aayush8356](https://github.com/Aayush8356)
 - Yash Verma [@stunner04](https://github.com/stunner04)
+- Ashutosh Singh [@Ashutosh1921](https://github.com/Ashutosh1921)
 
 ## Feedback and Support
 
