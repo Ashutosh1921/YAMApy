@@ -53,7 +53,7 @@ python manage.py runserver
 ```
 ## Demo
 
-![alt text](https://github.com/ancientmoon8/yamapy/blob/master/demo.gif)
+![demo](https://github.com/ancientmoon8/yamapy/blob/master/demo.gif)
 
 ## Authors
 
